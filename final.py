@@ -254,6 +254,7 @@ def get_result(num, choice):
     image_show_three(gt,td,result)
 #     return result
 
+
 def define_img_testing():
 #     num = 2
     num = str(img_num.get())
