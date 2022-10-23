@@ -1,6 +1,6 @@
 # 2022 新竹 $\times$ 梅竹黑客松
 
-ASML 艾司摩爾 第五組 好好組隊
+ASML 艾司摩爾 第五組 好好組隊 final.py為最終黑客松競賽程式碼。
 
 <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3-yellow" height=22.5></a>
 <a href="https://opencv.org/opencv-4-6-0/"><img src="https://img.shields.io/badge/OpenCV-4.6.0-orange" height=22.5></a>
@@ -27,3 +27,4 @@ ASML 艾司摩爾 第五組 好好組隊
 ## Skill
 
 ![](https://i.imgur.com/d44Y85q.png)
+
